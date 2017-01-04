@@ -1,0 +1,151 @@
+# Biblioteca pública móvil (BPM) - Capacitación
+
+
+
+# Introducción
+* Rol de cada participante en la capacitación y el proyecto
+* Objectives de la capacitación
+* Reglas del juego
+* Qué es una biblioteca ?
+
+Note: **Duration**: 15mn.  
+
+Diana lidera. Se le pedira post-it a los participantes al final de cada modulo de capacitación. 
+
+* Role of each participant in the training & project
+* Objectives of the training
+* Rules of the game
+* What is a library ?
+
+
+
+# Programa
+* Día 1 : BPM - la herramienta
+* Day 2 : La tecnología en la BPM
+* Day 3 : La logística
+
+Note: 
+
+* Day 1 : Biblioteca publica movil the tool
+* Day 2 : The technology in Biblioteca publica movil
+* Day 3 : logistics
+
+
+
+# Qué es una  Ideas Box?
+* Objectivo general y uso de una Ideas Box ([video](i/ideasbox_burundi.mp4), [ppt](i/colombia training.pptx))
+* Presentación de los equipos y contenidos físicos
+
+Note: **Duration**: 1h
+
+Diana lidera + Sergio para el contexto
+
+* Global objectives and use of an ideas box
+* Presentation of the equipment and usual contents
+
+
+
+# Instalación de la BPM
+
+Note: **Duration : 2h**
+
+
+
+## Reglas para la instalación
+* 4 personas necesarias para instalar un módulo
+* Use la postura correcta: no doble la espalda
+* No use “zapatos abiertos” (ej : sandalias) 
+* Utilice guantes para mover los módulos cuando las ruedas todavía no han sido instaladas
+* Cuando descargue la BPM del camión, quite todo los items pesados de su contenido (libros, generador, etc)
+* Las ruedas son un punto debil de la BPM, tenga cuidado
+
+Note: Gregorio lidera, Sergio traduce
+
+* 4 persons needed to move a module
+* Use the correct position : don't bend the back
+* Don't use "open shoes" (ex : tongs) 
+* Use glows to move modules when wheelers are not fixed already
+* When unloading the box from a truck, remove every heavy items from the box (books, generatirs)
+* wheelers is a weak point of the box, be careful
+
+
+
+## Módulo (presentación)
+* Modulo Naranja, biblioteca
+* Módulo verde, informático
+* Módulo Azul , Video + servidor
+* Módulo amarillo, recepción + escritorio
+
+Note: Sergio lidera, los equipos crean un espacio como un juego. Con las tablets y todos los otros equipos. 
+
+
+
+# Creando un espacio seguro
+* ejercicio: los participantes crean un espacio seguro, crean una biblioteca 
+
+Note: tapete + libros + cojines. Sergio y Lina son los “biblio master”
+
+* exercise: trainee create a safe space, create a library 
+
+
+
+# Almuerzo
+
+
+
+# Funcionamiento técnico de la BPM
+
+Note: **Duration**: 2h
+
+
+
+## Recursos digitales de la BPM
+* e-readers
+* tablets
+* computadores
+* servidor: la plataforma de distribución offline de la BPM
+
+
+Note: **Duration**: 1h
+
+Grégoire lidera
+
+
+
+## Tablets & comptadores
+<a href="i/fd-ideasbox.png"><img src="i/fd-ideasbox.png" width="170"></a>
+<a href="i/fd-create_ar_en.png"><img src="i/fd-create_ar_en.png" width="170"></a>
+<a href="i/fd_discover_ar_en.png"><img src="i/fd_discover_ar_en.png" width="170"></a>
+<a href="i/fd_learn_ar_en.png"><img src="i/fd_learn_ar_en.png" width="170"></a>
+<a href="i/fd_play_ar_en.png"><img src="i/fd_play_ar_en.png" width="170"></a>
+
+
+
+## Sistema eléctrico
+* Uso : conectar la televisión a la electricidad, cargar las tablets, conectar un computador
+* Descripción de los equipos
+* Uso: generador o circuito eléctrico y el botón de switch
+    
+Note: **Duration**: 1h 
+
+Grégoire lidera
+
+* Usage : power the la télévision, reload tablets, plug a computer
+* Description of the equipment
+* Usage : generator or electrical circuit and the switch button
+
+
+
+# IdeasCube
+* Presentación de IdeasCube
+* Uso y navigación
+* Cargar contenidos y manejo
+
+Note: **Duration**: (2h)
+
+Grégoire lidera. Diana y Sergio participan activamente
+
+* Overview of IdeasCube
+* Use and navigation
+* Upload of contents and management
+

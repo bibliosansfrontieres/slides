@@ -1,0 +1,65 @@
+# Biblioteca pública móvil (BPM) - Capacitación
+
+
+
+# Configuración técnica
+
+
+
+## e-readers
+* Descargue libros del servidor
+* Instale libros en los e-readers (kindle: pdf)
+
+Note: Duration: 1h. 
+Essai de dl d'un livres électronique depuis la bib vers un Kindle
+
+
+
+## Computadores
+* Instalación de Windows - lista de aplicaciones BSF
+* Aplicaciones de la Biblioteca Nacional?
+* Procedimiento de Compumax
+
+Note: Duration : 1h. Grégoire lidera. Discusión abierta. Calibre on computers.
+
+
+
+## Tablets
+<a href="i/fd-ideasbox.png"><img src="i/fd-ideasbox.png" width="170"></a>
+<a href="i/fd-create_ar_en.png"><img src="i/fd-create_ar_en.png" width="170"></a>
+<a href="i/fd_discover_ar_en.png"><img src="i/fd_discover_ar_en.png" width="170"></a>
+<a href="i/fd_learn_ar_en.png"><img src="i/fd_learn_ar_en.png" width="170"></a>
+<a href="i/fd_play_ar_en.png"><img src="i/fd_play_ar_en.png" width="170"></a>
+
+Note: Duration : 1h. Grégoire lidera. Discusión abierta. Calibre on computers. A remplacer éventuellmenet par la synchro ideascube
+
+
+
+## Import data in ideascube
+* Books
+* Specimen
+
+Note: exercice pratique
+
+
+
+# Almuerzo
+
+
+
+# Ideascube & Llave del saber
+
+
+
+## Llave del saber & ideascube
+* Fabio
+* Paulo
+
+
+
+## Sincronización de Ideascube
+* Centro multimedia : Sincronizar contenido multimedia con el servidor cloud (nube) de BSF
+* Bibliotecas: importar libros físicos y digitales en ideascube
+* Users: from Llabe del saber
+
+Note: preparar ejemplos de archivos de importación. Talleres prácticos: 4 grupos, 1 lider, integran contenido en el servidor

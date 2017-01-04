@@ -1,0 +1,50 @@
+# Biblioteca pública móvil (BPM) - Capacitación
+
+
+
+# Ensamblaje de la BPM (1h30)
+
+* Inventario y su abastecimiento
+* Chequeo de control de calidad y verificaciones de último minuto
+
+Note: Grégoire lidera
+* Inventory and stock refurbishment
+* Quality control check and last minute verifications
+
+
+
+# Mantenimiento (1h)
+* Guías para el mantenimiento de la BPM (muebles y componentes eléctricos)
+* Guías para el mantenimiento del servidor
+* Guías para el mantenimiento de los equipos técnicos
+* Garantías
+
+Note: discusión abierta. 23 días de “servicios” ICT de BSF
+* Maintenance guidance for the Biblioteca movil (furniture and electrical components)
+* Maintenance guidance for the server
+* Maintenance guidance for ICT equipment
+* Warranties
+
+
+
+# Resolver problemas provenientes del campo (30mn)
+
+Note: common reports and probles library is asking
+
+
+
+# Cierre sobre la capacitación (1h)
+
+Note: 
+* define focal points
+* define next steps
+* What else ?
+
+
+
+# Contacts
+
+* tech@bibliosansfrontieres.org
+* gregoire.pouget@bibliosansfrontieres.org
+* sergio.zabaleta@bibliosansfrontieres.org
+* diana.puyo@bibliosansfrontieres.org
