@@ -30,7 +30,7 @@ div.slide {
 div.slide h1 {
 	font-size: 2.5em;
 	font-weight: bold;
-	color: #ccc;
+	color: orange;
 	text-rendering: optimizeLegibility;
 	font-family: Arial, helvetica, sans-serif;
 	margin-bottom: .2em;
